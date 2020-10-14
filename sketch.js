@@ -44,7 +44,7 @@ if(keyDown(UP_ARROW)){
 textSize(15)
 fill("black")
 text("NOTE:Press UP_ARROW Key to feed the dog",50,50)
-text("food remaining"+foodS,100,100)
+text("food remaining  "+foodS,100,100)
 
 
 }
